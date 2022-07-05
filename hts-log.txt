@@ -1,0 +1,188 @@
+HTTrack3.49-2 launched on Sat, 02 Jul 2022 12:45:55 at http://www.comitesnz.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js +*.avi +*.mpg +*.mpg4 +*.mp4 +*.mkv -ad.doubleclick.net/* -mime:application/foobar +mime:text/html +mime:image/*
+(webhttrack -q -%i -w http://www.comitesnz.com -O "/Users/kwll/websites/webhttrack/Comites-Final" -n -t -%P -p7 -N0 -s0 -%x -%q -p7 -D -a -K0 -c14 -%k -R3 -A25000 -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0" -%F  +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js +*.avi +*.mpg +*.mpg4 +*.mp4 +*.mkv -ad.doubleclick.net/* -mime:application/foobar +mime:text/html +mime:image/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:45:55	Warning: 	* security warning: maximum number of simultaneous connections limited to 8 to avoid server overload
+12:47:22	Warning: 	Unexpected socket error during pre-loop
+13:15:27	Error: 	"Not Found" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/vademecum_sedute_comites_editato.docx (from www.comitesnz.com/miscellanea.html)
+13:19:55	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:19:55	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:21:07	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf (loop to same filename)
+13:21:07	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf
+13:26:31	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:26:31	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:42:09	Warning: 	Unexpected socket error during pre-loop
+13:42:10	Warning: 	Unexpected socket error during pre-loop
+13:45:55	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:45:55	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:46:33	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:46:33	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:46:49	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf (loop to same filename)
+13:46:49	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf
+13:47:09	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:47:09	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:47:15	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:47:15	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:47:17	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:47:17	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:47:47	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:47:47	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:47:49	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:47:49	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:48:56	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:48:56	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:49:40	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:49:40	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:49:49	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:49:49	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:50:30	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:50:30	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:50:38	Error: 	"Not Found" (404) at link www.comitesnz.com/covid-19-20-nuova-zelanda.html (from www.comitesnz.com/news/archives/03-2020)
+13:50:57	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf (loop to same filename)
+13:50:57	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf
+13:51:21	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:51:21	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:51:56	Error: 	"Not Found" (404) at link www.comitesnz.com/immigrazione.html (from www.comitesnz.com/news/archives/09-2018)
+13:52:53	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:52:53	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:53:00	Warning: 	Found for www.comitesnz.com/1/post/2020/06/reddito-di-emergenza-anche-per-gli-italiani-allestero-che-sono-rientrati-o-rientrano-in-italia-entro-il-mese-di-giugno-trasferendo-la-residenza-in-italia.html
+13:53:00	Warning: 	File has moved from www.comitesnz.com/1/post/2020/06/reddito-di-emergenza-anche-per-gli-italiani-allestero-che-sono-rientrati-o-rientrano-in-italia-entro-il-mese-di-giugno-trasferendo-la-residenza-in-italia.html to /news/reddito-di-emergenza-anche-per-gli-italiani-allestero-che-sono-rientrati-o-rientrano-in-italia-entro-il-mese-di-giugno-trasferendo-la-residenza-in-italia
+13:53:03	Warning: 	Found for www.comitesnz.com/1/post/2019/01/the-embassy-of-italy-and-the-europe-institute-at-the-university-of-auckland-present-a-lecture-by-prof-francesco-spagnolo-university-of-california-berkeley.html
+13:53:03	Warning: 	File has moved from www.comitesnz.com/1/post/2019/01/the-embassy-of-italy-and-the-europe-institute-at-the-university-of-auckland-present-a-lecture-by-prof-francesco-spagnolo-university-of-california-berkeley.html to /news/the-embassy-of-italy-and-the-europe-institute-at-the-university-of-auckland-present-a-lecture-by-prof-francesco-spagnolo-university-of-california-berkeley
+13:53:13	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:53:13	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:53:14	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:53:14	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:53:16	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:53:16	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:53:17	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:53:17	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:53:22	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf (loop to same filename)
+13:53:22	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf
+13:53:23	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf (loop to same filename)
+13:53:23	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/03/ordinanza.pdf
+13:53:26	Warning: 	Unable to test https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf (loop to same filename)
+13:53:26	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/resource/doc/2020/02/bando_vivo_d_arte_-_arti_performative_2020.pdf
+13:53:29	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:53:29	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:53:32	Warning: 	Unable to test https://www.esteri.it/mae/doc/dpr395.pdf (loop to same filename)
+13:53:32	Warning: 	link is probably looping, type unknown, aborting: https://www.esteri.it/mae/doc/dpr395.pdf
+13:53:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.google.com/recaptcha/api.js
+13:53:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): d1l6p2sc9645hc.cloudfront.net/tracker.js
+13:53:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.comitesnz.com/files/theme/plugins.js
+13:54:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.immigration.govt.nz/documents/communications-toolkit/italian-nzeta-traveller-information-sheet-july-2019.pdf
+13:55:33	Warning: 	HTML file (36360 bytes) retransferred due to lack of cache: www.comitesnz.com/contattaci.html
+13:55:37	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/normative/normativa_consolare/comites_cgie/circolare_n.4_06122007_comites.pdf (from www.comitesnz.com/la-legge.html)
+13:55:37	Warning: 	Retry after error -4 (Incorrect length (1328942 Bytes, 6453353 expected)) at link www.comitesnz.com/uploads/5/4/9/8/54984369/_verbale_riunione_ufficiale_comites_del_​_9_aprile_2017.pdf (from www.comitesnz.com/verbali.html)
+13:55:37	Warning: 	Retry after error -4 (Incorrect length (552720 Bytes, 2032251 expected)) at link www.comitesnz.com/uploads/5/4/9/8/54984369/verbale_riunione_ufficiale_comites_del_​13_dicembre_2015.pdf (from www.comitesnz.com/verbali.html)
+13:55:37	Warning: 	Retry after error -4 (Incorrect length (1547761 Bytes, 15210889 expected)) at link www.comitesnz.com/uploads/5/4/9/8/54984369/preventivo_2020.pdf (from www.comitesnz.com/bilanci-e-fondi-residui-maeci.html)
+13:55:37	Warning: 	Retry after error -4 (Incorrect length (2115072 Bytes, 3802666 expected)) at link www.comitesnz.com/uploads/5/4/9/8/54984369/preventivo-2017_161107_firmato.pdf (from www.comitesnz.com/bilanci-e-fondi-residui-maeci.html)
+13:55:37	Error: 	"" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/vademecum_sedute_comites_editato.docx (from www.comitesnz.com/miscellanea.html)
+13:55:37	Warning: 	HTML file (53451 bytes) retransferred due to lack of cache: www.comitesnz.com/news/registrazione-riunione-comites-31-maggio-2022
+13:55:37	Warning: 	Unexpected socket error during pre-loop
+13:55:55	Warning: 	HTML file (52225 bytes) retransferred due to lack of cache: www.comitesnz.com/news/convocazione-riunione-aperta-al-pubblico-31-maggio-2022
+13:56:19	Warning: 	HTML file (52156 bytes) retransferred due to lack of cache: www.comitesnz.com/news/verbale-riunione-del-comites-15-marzo-2022
+13:56:43	Warning: 	HTML file (51970 bytes) retransferred due to lack of cache: www.comitesnz.com/news/esito-elezione-comites-nuova-zelanda-del-3-dicembre-2021
+13:57:07	Warning: 	HTML file (52569 bytes) retransferred due to lack of cache: www.comitesnz.com/news/sussidi-a-fondo-perduto-per-gli-italiani-in-difficolta-in-nz
+13:57:33	Warning: 	HTML file (53127 bytes) retransferred due to lack of cache: www.comitesnz.com/news/progetto-comites-su-pensioni-e-sicurezza-sociale
+13:57:59	Warning: 	HTML file (52103 bytes) retransferred due to lack of cache: www.comitesnz.com/news/situazione-voli-rientro-in-italia
+13:58:25	Warning: 	HTML file (52605 bytes) retransferred due to lack of cache: www.comitesnz.com/news/collegamento-con-beatrice-foschetti-addetta-alla-promozione-culturale-e-commerciale-dellambasciata-italiana-sullemergenza-covid-19
+13:58:51	Warning: 	HTML file (52148 bytes) retransferred due to lack of cache: www.comitesnz.com/news/covid-19-nuova-zelanda-rai-italia-litalia-con-voi-parla-con-wilma-laryn
+13:59:17	Warning: 	HTML file (51830 bytes) retransferred due to lack of cache: www.comitesnz.com/news/coronavirus-800-italiani-bloccati-in-australia-e-nuova-zelanda
+13:59:43	Warning: 	HTML file (51805 bytes) retransferred due to lack of cache: www.comitesnz.com/news/destinazione-nuova-zelanda-la-guida-per-i-nuovi-arrivati-in-nz
+14:00:09	Error: 	"Not Found" (404) at link www.comitesnz.com//www.weebly.com/weebly/images/file_icons/rtf.png (from www.comitesnz.com/news/archives/01-2020)
+14:00:09	Warning: 	HTML file (51978 bytes) retransferred due to lack of cache: www.comitesnz.com/news/rinvio-elezioni-comites-al-2021
+14:00:33	Warning: 	HTML file (54024 bytes) retransferred due to lack of cache: www.comitesnz.com/news/contatti-con-il-comites-messico
+14:00:59	Error: 	"Not Found" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/verbale_riunione_24_novembre_2019.pdf (from www.comitesnz.com/news/archives/12-2019)
+14:00:59	Warning: 	HTML file (52362 bytes) retransferred due to lack of cache: www.comitesnz.com/news/emergenza-venezia-aperto-un-conto-corrente-per-le-donazioni-dallitalia-e-dallestero-donations-for-venice
+14:01:25	Warning: 	HTML file (66334 bytes) retransferred due to lack of cache: www.comitesnz.com/news/november-11th-2019
+14:01:57	Warning: 	HTML file (51558 bytes) retransferred due to lack of cache: www.comitesnz.com/news/missione-consolare-a-tonga
+14:02:23	Warning: 	HTML file (51831 bytes) retransferred due to lack of cache: www.comitesnz.com/news/comites-wellington-e-radio-ondazzurra-al-festival-italiano-2019
+14:02:49	Error: 	"Not Found" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/comites_wellington_-verbale_riunione_2015-06-19_-_r02.pdf (from www.comitesnz.com/news/archives/10-2019)
+14:02:49	Warning: 	HTML file (54891 bytes) retransferred due to lack of cache: www.comitesnz.com/news/verbale-breve-della-riunione-di-sabato-7-settembre-2019
+14:03:15	Error: 	"Not Found" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/verbale_riunione_7_settembre_2019.pdf (from www.comitesnz.com/news/archives/10-2019)
+14:03:15	Warning: 	HTML file (57258 bytes) retransferred due to lack of cache: www.comitesnz.com/news/fiducia-12-si-e-6-no-dagli-eletti-allestero
+14:03:37	Warning: 	HTML file (53998 bytes) retransferred due to lack of cache: www.comitesnz.com/news/torna-a-christchurch-ciao-italia-levento-organizzato-dalla-italian-chamber-of-commerce-in-new-zealand
+14:03:59	Warning: 	HTML file (55367 bytes) retransferred due to lack of cache: www.comitesnz.com/news/agenda-della-riunione-comites-wellington-di-domenica-4-agosto-2019
+14:04:19	Warning: 	HTML file (52209 bytes) retransferred due to lack of cache: www.comitesnz.com/news/avviso-assunzione-di-impiegato-a-contratto-presso-lambasciata-a-wellington
+14:04:35	Warning: 	HTML file (52900 bytes) retransferred due to lack of cache: www.comitesnz.com/news/nuovo-requisito-per-visitare-o-transitare-in-nuova-zelanda
+14:04:51	Warning: 	HTML file (52281 bytes) retransferred due to lack of cache: www.comitesnz.com/news/incontro-informale-con-il-consigliere-del-cgie-per-laustralia-prof-francesco-papandrea
+14:04:58	Error: 	"Not Found" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/2019-03-31_verbale_integrale_2019-3-31.pdf (from www.comitesnz.com/news/archives/04-2019)
+14:04:58	Warning: 	Retry after error -4 (Incorrect length (7287401 Bytes, 9271125 expected)) at link https://docs.wixstatic.com/ugd/c2b48f_3cec21ea30e040f8b9db355e5360b74d.pdf (from www.comitesnz.com/news/archives/04-2019)
+14:04:58	Warning: 	HTML file (56788 bytes) retransferred due to lack of cache: www.comitesnz.com/news/riunione-dellintercomites-daustralia-a-perth
+14:05:04	Warning: 	HTML file (59007 bytes) retransferred due to lack of cache: www.comitesnz.com/news/note-italiane-a-series-of-concerts-featuring-internationally-acclaimed-italian-musicians
+14:05:08	Warning: 	HTML file (55438 bytes) retransferred due to lack of cache: www.comitesnz.com/news/the-embassy-of-italy-and-the-europe-institute-at-the-university-of-auckland-present-a-lecture-by-prof-francesco-spagnolo-university-of-california-berkeley
+14:05:13	Warning: 	HTML file (62614 bytes) retransferred due to lack of cache: www.comitesnz.com/news/verbale-breve-della-riunione-del-2-dicembre-2018
+14:05:18	Error: 	"Not Found" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/181221_5.1_verbale_riunione_2_dicembre_2018.pdf (from www.comitesnz.com/news/archives/12-2018)
+14:05:18	Warning: 	HTML file (54636 bytes) retransferred due to lack of cache: www.comitesnz.com/news/riunione-comites-wellington-2-dicembre-2018-con-la-partecipazione-del-senatore-francesco-giacobbe
+14:05:22	Warning: 	HTML file (53009 bytes) retransferred due to lack of cache: www.comitesnz.com/news/xviii-settimana-della-lingua-italiana-nel-mondo-auckland-nuova-zelanda
+14:05:26	Error: 	"Not Found" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/verbale_della_riunione_del_9_settembre_2018.pdf (from www.comitesnz.com/news/archives/10-2018)
+14:05:26	Error: 	"Not Found" (404) at link www.comitesnz.com//www.weebly.com/weebly/images/file_icons/pdf.png (from www.comitesnz.com/news/archives/08-2018)
+14:05:26	Warning: 	HTML file (53262 bytes) retransferred due to lack of cache: www.comitesnz.com/news/100-trasmissioni-per-ondazzurra-su-podcast
+14:05:30	Warning: 	HTML file (52567 bytes) retransferred due to lack of cache: www.comitesnz.com/news/aggiornamento-della-lista-medici-e-terapisti-in-italiano
+14:05:34	Warning: 	HTML file (51904 bytes) retransferred due to lack of cache: www.comitesnz.com/news/pensioni-estere-in-nuova-zelanda
+14:05:37	Warning: 	HTML file (51720 bytes) retransferred due to lack of cache: www.comitesnz.com/news/ciao-italia
+14:05:40	Error: 	"Not Found" (404) at link www.comitesnz.com/uploads/5/4/9/8/54984369/verbale_riunione_27_maggio_2018.pdf (from www.comitesnz.com/news/archives/06-2018)
+14:05:40	Warning: 	HTML file (53588 bytes) retransferred due to lack of cache: www.comitesnz.com/news/agenda-della-riunione-di-domenica-27-maggio-2018-wellington
+14:05:46	Warning: 	HTML file (52736 bytes) retransferred due to lack of cache: www.comitesnz.com/news/two-2018-dante-auckland-scholarships-available-to-study-italian-at-auckland-university
+14:05:50	Warning: 	HTML file (53469 bytes) retransferred due to lack of cache: www.comitesnz.com/news/origini-italia-2018-study-scholarship-for-italian-descendants
+14:05:54	Warning: 	HTML file (54756 bytes) retransferred due to lack of cache: www.comitesnz.com/news/elezioni-politiche-2018
+14:06:00	Warning: 	HTML file (51131 bytes) retransferred due to lack of cache: www.comitesnz.com/news/felice-anno-nuovo-2018
+14:06:03	Warning: 	HTML file (54493 bytes) retransferred due to lack of cache: www.comitesnz.com/news/pensioni-italia-nuova-zelanda-ricerca-volontario-per-apertura-punto-inas
+14:06:06	Warning: 	HTML file (52565 bytes) retransferred due to lack of cache: www.comitesnz.com/news/festa-della-repubblica
+14:06:12	Warning: 	HTML file (54588 bytes) retransferred due to lack of cache: www.comitesnz.com/news/referendum-costituzionale-come-votare
+14:06:16	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/resource/doc/2016/09/mod_opzione_voto_referendum_cost_4_12_2016_r2.pdf (from www.comitesnz.com/news/archives/10-2016)
+14:06:16	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/resource/doc/2016/09/modello_opzione_votanti_in_italia_-_bis.doc (from www.comitesnz.com/news/archives/10-2016)
+14:06:16	Warning: 	HTML file (51705 bytes) retransferred due to lack of cache: www.comitesnz.com/news/ambasciata-ditalia-in-wellington-su-twitter
+14:06:16	Warning: 	Unexpected socket error during pre-loop
+14:06:16	Warning: 	Unexpected socket error during pre-loop
+14:06:20	Warning: 	HTML file (53819 bytes) retransferred due to lack of cache: www.comitesnz.com/news/cinema-italiano-festival-2016-dal-4-maggio
+14:06:24	Warning: 	HTML file (54438 bytes) retransferred due to lack of cache: www.comitesnz.com/news/appuntamento-1-aprile-per-rinnovo-passaporto-a-auckland
+14:06:28	Warning: 	HTML file (53176 bytes) retransferred due to lack of cache: www.comitesnz.com/news/petizione-online-per-laccordo-di-sicurezza-sociale-fra-italia-e-nuova-zelanda
+14:06:32	Warning: 	HTML file (53892 bytes) retransferred due to lack of cache: www.comitesnz.com/news/corso-origini-italia-di-mib-school-of-management-a-trieste-destinato-ai-discendenti-degli-emigrati-italiani-nel-mondo
+14:06:36	Error: 	"Not Found" (404) at link ambwellington.esteri.it/NR/rdonlyres/2468282F-2B6E-4DF9-BB35-66F87CA5EA48/94503/AvvisoAssunzione.doc (from www.comitesnz.com/news/archives/01-2016)
+14:06:36	Error: 	"Not Found" (404) at link ambwellington.esteri.it/NR/rdonlyres/2468282F-2B6E-4DF9-BB35-66F87CA5EA48/94504/DomandaPartecipazione.doc (from www.comitesnz.com/news/archives/01-2016)
+14:06:36	Warning: 	HTML file (52476 bytes) retransferred due to lack of cache: www.comitesnz.com/news/disponibilita-fondi-residui-del-ministero-degli-esteri
+14:06:40	Warning: 	HTML file (51806 bytes) retransferred due to lack of cache: www.comitesnz.com/news/emergenze-e-sicurezza-italiani-con-whv-in-nuova-zelanda
+14:06:43	Warning: 	HTML file (58385 bytes) retransferred due to lack of cache: www.comitesnz.com/news/imu-per-residenti-allestero-lettera-aperta-ai-presidenti-comites-nel-mondo
+14:06:47	Warning: 	HTML file (52856 bytes) retransferred due to lack of cache: www.comitesnz.com/news/bando-per-lassunzione-a-tempo-determinato-di-un-assistente-amministrativo
+14:06:50	Warning: 	HTML file (74722 bytes) retransferred due to lack of cache: www.comitesnz.com/news/category/all/2
+14:06:57	Warning: 	HTML file (52208 bytes) retransferred due to lack of cache: www.comitesnz.com/news/covid-19-nuova-zelanda-le-societa-dante-auckland-e-dante-christchurch-chiudono-solo-lezioni-in-rete-da-lunedi-23-marzo
+14:07:00	Warning: 	HTML file (51720 bytes) retransferred due to lack of cache: www.comitesnz.com/news/ultimi-dati-ufficiali-dal-ministero-della-salute-e-protezione-civile-in-italia
+14:07:06	Warning: 	HTML file (51892 bytes) retransferred due to lack of cache: www.comitesnz.com/news/rinviato-il-referendum-per-il-taglio-dei-parlamentari
+14:07:10	Error: 	"Forbidden" (403) at link https://www.health.govt.nz/system/files/documents/pages/border-advisory-9-2march-2020-final.pdf (from www.comitesnz.com/news/category/salute)
+14:07:10	Warning: 	HTML file (52531 bytes) retransferred due to lack of cache: www.comitesnz.com/news/attenzione-temporanea-apertura-dei-transiti-in-australia
+14:07:14	Error: 	"Not Found" (404) at link www.comitesnz.com/files/theme/images/social-icons.eot?-h6wei0?1656575943 (from www.comitesnz.com/files/main_style.css?1656575943)
+14:07:14	Error: 	"Not Found" (404) at link www.comitesnz.com/files/theme/images/social-icons.eot? (from www.comitesnz.com/files/main_style.css?1656575943)
+14:07:14	Error: 	"Not Found" (404) at link www.comitesnz.com/files/theme/images/dropdown2.png?1656575943 (from www.comitesnz.com/files/main_style.css?1656575943)
+14:07:14	Error: 	"Not Found" (404) at link cdn2.editmysite.com/weebly/images/dialog/raised_close.png (from cdn2.editmysite.com/css/site_membership.css?buildTime=1656538743)
+14:07:14	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/normative/normativa_consolare/comites_cgie/circolare_n.4_06122007_comites.pdf (from www.comitesnz.com/la-legge.html)
+14:07:14	Warning: 	Retry after error -4 (Incorrect length (3003558 Bytes, 6453353 expected)) at link www.comitesnz.com/uploads/5/4/9/8/54984369/_verbale_riunione_ufficiale_comites_del_​_9_aprile_2017.pdf (from www.comitesnz.com/verbali.html)
+14:07:14	Warning: 	Retry after error -4 (Incorrect length (2776201 Bytes, 15210889 expected)) at link www.comitesnz.com/uploads/5/4/9/8/54984369/preventivo_2020.pdf (from www.comitesnz.com/bilanci-e-fondi-residui-maeci.html)
+14:07:14	Warning: 	Unexpected socket error during pre-loop
+14:15:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 6453353 got 6201808): www.comitesnz.com/uploads/5/4/9/8/54984369/_verbale_riunione_ufficiale_comites_del_​_9_aprile_2017.pdf
+14:15:57	Warning: 	Retry after error -4 (Incorrect length (8199640 Bytes, 9271125 expected)) at link https://docs.wixstatic.com/ugd/c2b48f_3cec21ea30e040f8b9db355e5360b74d.pdf (from www.comitesnz.com/news/archives/04-2019)
+14:15:57	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/resource/doc/2016/09/mod_opzione_voto_referendum_cost_4_12_2016_r2.pdf (from www.comitesnz.com/news/archives/10-2016)
+14:15:57	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/resource/doc/2016/09/modello_opzione_votanti_in_italia_-_bis.doc (from www.comitesnz.com/news/archives/10-2016)
+14:15:57	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/normative/normativa_consolare/comites_cgie/circolare_n.4_06122007_comites.pdf (from www.comitesnz.com/la-legge.html)
+14:15:57	Warning: 	Retry after error -4 (Incorrect length (6201808 Bytes, 6453353 expected)) at link www.comitesnz.com/uploads/5/4/9/8/54984369/_verbale_riunione_ufficiale_comites_del_​_9_aprile_2017.pdf (from www.comitesnz.com/verbali.html)
+14:15:57	Warning: 	Retry after error -4 (Incorrect length (6279337 Bytes, 15210889 expected)) at link www.comitesnz.com/uploads/5/4/9/8/54984369/preventivo_2020.pdf (from www.comitesnz.com/bilanci-e-fondi-residui-maeci.html)
+14:15:57	Warning: 	Unexpected socket error during pre-loop
+14:15:57	Warning: 	Unexpected socket error during pre-loop
+14:15:57	Warning: 	Unexpected socket error during pre-loop
+14:20:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 15210889 got 9834883): www.comitesnz.com/uploads/5/4/9/8/54984369/preventivo_2020.pdf
+14:20:44	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/resource/doc/2016/09/mod_opzione_voto_referendum_cost_4_12_2016_r2.pdf (from www.comitesnz.com/news/archives/10-2016)
+14:20:44	Warning: 	Retry after error -4 (Receive Error) at link www.esteri.it/mae/resource/doc/2016/09/modello_opzione_votanti_in_italia_-_bis.doc (from www.comitesnz.com/news/archives/10-2016)
+14:20:44	Error: 	"Receive Error" (-4) after 3 retries at link www.esteri.it/mae/normative/normativa_consolare/comites_cgie/circolare_n.4_06122007_comites.pdf (from www.comitesnz.com/la-legge.html)
+14:20:44	Error: 	"Incorrect length (9834883 Bytes, 15210889 expected)" (-4) after 3 retries at link www.comitesnz.com/uploads/5/4/9/8/54984369/preventivo_2020.pdf (from www.comitesnz.com/bilanci-e-fondi-residui-maeci.html)
+14:20:45	Warning: 	Unexpected socket error during pre-loop
+14:20:45	Warning: 	Unexpected socket error during pre-loop
+14:20:46	Error: 	"Receive Error" (-4) after 3 retries at link www.esteri.it/mae/resource/doc/2016/09/mod_opzione_voto_referendum_cost_4_12_2016_r2.pdf (from www.comitesnz.com/news/archives/10-2016)
+14:20:46	Error: 	"Receive Error" (-4) after 3 retries at link www.esteri.it/mae/resource/doc/2016/09/modello_opzione_votanti_in_italia_-_bis.doc (from www.comitesnz.com/news/archives/10-2016)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 34 minutes 51 seconds : 850 links scanned, 1117 files written (167130603 bytes overall) [100534513 bytes received at 17665 bytes/sec], 27310307 bytes transferred using HTTP compression in 437 files, ratio 22%, 2.6 requests per connection
+(24 errors, 153 warnings, 0 messages)
